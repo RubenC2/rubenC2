@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxlNjNpaml6YjNvZnZpMmc4aDNlZWh4M3lvY3ZsaG5mbDdoOWg2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rub%C3%A9n-castro-35a69878/" target="blank">
+  <a href="https://www.linkedin.com/in/rub%C3%A9n-castro-35a69878/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
