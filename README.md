@@ -26,11 +26,11 @@ Soy estudiante de desarrollo web full stack <img src="https://media.giphy.com/me
 
 - 💻 Actualmente estudiando full time en The Bridge.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rub%C3%A9n-castro-35a69878/)
+- :mailbox: Puedes encontrarme en: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rub%C3%A9n-castro-35a69878/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Lenguajes y herramientas :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
