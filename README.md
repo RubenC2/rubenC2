@@ -14,15 +14,16 @@
 </h1>
 </div>
 
+---
+
+### :technologist: Desarrollador Web Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
-
-### :technologist: SOY DESARROLLADOR WEB FULL STACK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
----
 
 ## :email: Me puedes contactar en
 
@@ -32,7 +33,7 @@
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas:
+### :hammer_and_wrench: Conocimientos técnicos:
 
 Frontend: 
 
@@ -52,7 +53,7 @@ Otras Herramientas:
 ---
 ### :chart_with_upwards_trend: Estadísticas de GitHub
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenC2&langs_count=10&layout=compact&theme=gruvbox)  [![GitHub Streak](https://streak-stats.demolab.com/?user=rubenC2)](https://git.io/streak-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenC2&langs_count=10&layout=compact&theme=gruvbox)  
 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rubenC2&theme=radical&row=1&column=4)
