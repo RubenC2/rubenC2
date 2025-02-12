@@ -43,10 +43,11 @@ Estoy en búsqueda de nuevas oportunidades para formar parte de proyectos innova
 
 ### :chart_with_upwards_trend: Estadísticas de GitHub
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenC2&langs_count=10&layout=compact&theme=gruvbox)  
+<div align="center">
+  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenC2&langs_count=10&layout=compact&theme=gruvbox)       ![Trophies](https://github-profile-trophy.vercel.app/?username=rubenC2&theme=radical&row=1&column=4)
 
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rubenC2&theme=radical&row=1&column=4)
+</div>
 
 
 
