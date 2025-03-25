@@ -17,7 +17,7 @@
 ### :technologist: Desarrollador Web Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 Con trayectoria en el ámbito educativo y social, he reorientado mi carrera profesional hacia el desarrollo web, estudiando un bootcamp intensivo e inmersivo full time en [The Bridge](https://thebridge.tech/bootcamps/desarrollo-web-full-stack/madrid/), impulsado por el deseo de aprender y afrontar nuevos retos. Siempre en fase de crecimiento técnico, mi entusiasmo y compromiso me permiten avanzar rápidamente en este campo. Además, cuento con soft skills claves, como la empatía, las habilidades sociales y comunicativas, la escucha activa y el trabajo en equipo, lo que contribuye a crear un ambiente de trabajo positivo y productivo. 
-Estoy en búsqueda de nuevas oportunidades para formar parte de proyectos innovadores.
+Actualmente estoy felizmente empleado, creciendo profesional y personalmente.
 
 <a href="https://rubencastrodev.netlify.app/" target="_blank" rel="noopener noreferrer">🚧 Aquí puedes ver mi portfolio en construcción 🚧</a>
 
